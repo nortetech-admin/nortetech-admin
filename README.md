@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Filiberto – aka **Norte Tech**
+# 👋 Hi, thanks for stopping by!
 
 📍 Based in Mexico | 🎓 Mechatronics Engineering Student | 🛠️ Builder of smart, useful tools
 
@@ -31,4 +31,3 @@ I’m always open to collaborating, learning, or discussing ideas. You can find 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/filiberto-flores-1b706b200)
 - 🌐 [Portfolio site](https://github.com/nortetech-admin/nortetech-admin) (soon)
 
-Thanks for stopping by!
