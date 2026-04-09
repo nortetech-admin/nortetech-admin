@@ -16,7 +16,7 @@ I'm an entrepreneurial and self-taught developer passionate about solving real-w
 
 ## Featured Projects
 
-- [**Laureas.mx**](laureas.mx) – End-to-end sports management system that automates registration, team creation, stats, and CRM with AI
+- [**Laureas**](laureas.mx) – End-to-end sports management system that automates registration, team creation, stats, and CRM with AI
 - [**Hermes**](https://github.com/nortetech-admin/hermes-appscript) – AI-powered system to analyze customs declarations using Google Apps Script + Gemini AI
 - [**AmigosF1**](https://github.com/nortetech-admin/amigosf1-appscript) – Automated Formula 1 prediction pool for friends using Apps Script
 
